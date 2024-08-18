@@ -1,0 +1,2 @@
+- connect postgres with python 
+- insert data into db(postgres) csv file
