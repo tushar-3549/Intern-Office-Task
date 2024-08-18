@@ -1,0 +1,3 @@
+- Check duplicate (remove duplicate data in a row)
+- data mismatch(upper, lower to capitalize)
+- finally sort according to alphabetically order
