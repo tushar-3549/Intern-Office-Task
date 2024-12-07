@@ -1,0 +1,5 @@
+todo_create = '/create'
+todo_all = '/all'
+todo_one = '/todo/{id}'
+todo_update = '/update/{id}'
+todo_delete = '/delete/{id}'
